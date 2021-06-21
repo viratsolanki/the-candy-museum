@@ -1,3 +1,3 @@
 # the-candy-museum
 
-This is a simple template done in the Web Developer Bootcamp by Colt Steele.
+This is a simple template created in the Web Developer Bootcamp by Colt Steele.
